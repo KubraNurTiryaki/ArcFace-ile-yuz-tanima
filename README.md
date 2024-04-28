@@ -1,4 +1,4 @@
-dosyalarin_linki_txt dosyasında bulunan:
+dosyalarin_linki.txt dosyasında bulunan:
 https://files.btkakademi.gov.tr/128_BILGISAYARLI_GORU_UYGULAMA_ALANLARI/Bolum_1_2_3_4_Yuz_Tanima.zip
 
 yukardaki linkten dosyayı indirip içerisinde gelecek olan train.ipynb dosyası yerine bu repoda bulunan train.ipynb dosyasını koymalısınız.
