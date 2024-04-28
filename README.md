@@ -3,3 +3,5 @@ https://files.btkakademi.gov.tr/128_BILGISAYARLI_GORU_UYGULAMA_ALANLARI/Bolum_1_
 
 yukardaki linkten dosyayı indirip içerisinde gelecek olan train.ipynb dosyası yerine bu repoda bulunan train.ipynb dosyasını koymalısınız.
 Ayrıca zipli dosyaları bulundukları hedefe ayıklamalısınız.
+
+Maalesef GitHub'ın izin verdiği dosya boyutlarını aştıkları için gerekli dosyaları buraya yükleyemedim. Fakat anlattığım gibi yaparsanız işinize yarayacaktır.
