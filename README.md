@@ -5,3 +5,5 @@ yukardaki linkten dosyayı indirip içerisinde gelecek olan train.ipynb dosyası
 Ayrıca zipli dosyaları bulundukları hedefe ayıklamalısınız.
 
 Maalesef GitHub'ın izin verdiği dosya boyutlarını aştıkları için gerekli dosyaları buraya yükleyemedim. Fakat anlattığım gibi yaparsanız işinize yarayacaktır.
+
+Bu proje BTK Akademinin Bilgisayarlı Görü Uygulama Alanları kursunda geliştirilmiştir.
