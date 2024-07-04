@@ -1,3 +1,5 @@
+A Convolutional Neural Network project that detects faces of celebrities in the LFW Dataset using the ArcFace model
+
 dosyalarin_linki.txt dosyasında bulunan:
 https://files.btkakademi.gov.tr/128_BILGISAYARLI_GORU_UYGULAMA_ALANLARI/Bolum_1_2_3_4_Yuz_Tanima.zip
 
